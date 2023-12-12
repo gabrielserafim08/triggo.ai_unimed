@@ -1,0 +1,11 @@
+variavel,descricao
+age,idade do beneficiario primario
+sex,genero do beneficiario primario
+bmi,body mass index - IMC indice de massa corporal
+children,numero de dependentes coberto pelo plano de saude
+smoker,fumante ou nao fumante
+region,regiao residencial do beneficiario nos EUA
+charges,custo gerado ao plano de saude pelo cliente
+client_id,id unico de identificacao do cliente
+diabetic,diabetico ou nao diabetico
+blood_pressure,valor da pressao sanguinea
